@@ -1,0 +1,94 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4000-8000-000000000001",
+    "title": "Set up project documentation",
+    "subtasks": [
+      "Create a README with project overview",
+      "Document API endpoints with examples",
+      "Add setup and installation instructions",
+      "Write contribution guidelines"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T17:04:07.390191",
+    "created_at": "2026-05-28T08:00:00.000000"
+  },
+  {
+    "id": "a1b2c3d4-0002-4000-8000-000000000002",
+    "title": "Review pull requests from the team",
+    "subtasks": [
+      "Check out each branch locally",
+      "Run tests and verify functionality",
+      "Leave inline comments for suggestions",
+      "Approve or request changes"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T10:30:00.000000",
+    "created_at": "2026-05-28T08:15:00.000000"
+  },
+  {
+    "id": "a1b2c3d4-0003-4000-8000-000000000003",
+    "title": "Fix login bug reported by QA",
+    "subtasks": [
+      "Reproduce the bug in the dev environment",
+      "Identify the root cause in the auth flow",
+      "Write a failing test that covers the case",
+      "Implement the fix and verify the test passes",
+      "Deploy the fix to staging for QA sign-off"
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T19:39:22.881516",
+    "created_at": "2026-05-28T09:00:00.000000"
+  },
+  {
+    "id": "f7105858-9737-45d7-9c2b-ef9b2468f122",
+    "title": "create a claude project",
+    "subtasks": [
+      "Log in to the Anthropic console.",
+      "Navigate to the 'Projects' section and select 'Create New Project'.",
+      "Enter a project name and configure any initial settings.",
+      "Generate and securely store an API key for the new project."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T19:44:24.675438",
+    "created_at": "2026-05-28T10:58:58.866400"
+  },
+  {
+    "id": "ed405721-31ab-46e1-905b-ac0082e0ba9d",
+    "title": "create a project to track daily schedule",
+    "subtasks": [
+      "Select a digital tool or platform (e.g., spreadsheet, Notion, Trello).",
+      "Define the key information to track for each schedule item (e.g., task, time, duration, priority).",
+      "Set up the project structure within the chosen tool (e.g., create columns, lists, or templates).",
+      "Populate with initial schedule items and test the tracking process."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T19:21:16.216342",
+    "created_at": "2026-05-28T19:15:53.689969"
+  },
+  {
+    "id": "6fe3d9ea-f357-4cf4-998b-bda607a581fa",
+    "title": "create how to connect claude to salesforce mcp",
+    "subtasks": [
+      "Research Salesforce MCP APIs and Claude's API capabilities for integration methods.",
+      "Define a specific integration use case and map the data flow between Claude and MCP.",
+      "Outline technical steps for API configuration, data mapping, and any custom development.",
+      "Draft the complete 'how-to' guide, including prerequisites, example usage, and troubleshooting."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-28T19:47:02.893340",
+    "created_at": "2026-05-28T19:29:36.640742"
+  },
+  {
+    "id": "82a4b91e-7e84-4b8b-bd09-d551b56c8227",
+    "title": "Test task to verify timezone fix",
+    "subtasks": [
+      "Review timezone fix details and identify affected system components.",
+      "Develop test cases covering various timezones, DST transitions, and date ranges.",
+      "Configure test environment and execute defined test cases.",
+      "Verify correct time display, storage, and calculations across all scenarios."
+    ],
+    "completed": true,
+    "completed_at": "2026-05-29T01:20:28.100237+05:30",
+    "created_at": "2026-05-29T01:20:28.055203+05:30"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-28",
+  "sections": {
+    "news": {
+      "topic": "technology",
+      "query": "latest news technology",
+      "summary": "Recent tech news includes a new GAA video game, Valve raising Steam Deck prices, and SpaceX facing an investigation into a Starship booster crash.",
+      "articles": [
+        {
+          "title": "Technology | Latest News & Updates - BBC",
+          "url": "https://www.bbc.co.uk/news/technology",
+          "snippet": "Latest News \u00b7 First look at new GAA video game. \u00b7 Valve hikes Steam Deck prices by more than 40%, blaming rising costs \u00b7 King's College team...",
+          "relevance_score": 0.998103
+        },
+        {
+          "title": "Tech News | Today's Latest Technology News | Reuters",
+          "url": "https://www.reuters.com/technology",
+          "snippet": "Up next \u00b7 SpaceX ordered to investigate fiery crash of Starship booster \u00b7 AI Weekly: predictions on jobs, $1 trillion market values \u00b7 Nvidia to spend $150...",
+          "relevance_score": 0.9942697
+        },
+        {
+          "title": "WIRED - The Latest in Technology, Science, Culture and Business ...",
+          "url": "https://www.wired.com",
+          "snippet": "We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered....",
+          "relevance_score": 0.947381
+        }
+      ]
+    },
+    "quotes": {
+      "topic": "leadership",
+      "query": "inspiring quotes about leadership",
+      "summary": "Great leaders inspire others to grow; they lead by example, not control. \"A leader is best when people barely know he exists.\" Leadership is about vision and serving others.",
+      "sources": [
+        {
+          "title": "75 Quotes About Leadership | Inspiring Workspaces by BOS",
+          "url": "https://www.bos.com/inspired/75-leadership-quotes",
+          "content": "\u201cThe secret of getting ahead is getting started.\u201d \u00b7 \u201cTo handle yourself, use your head; to handle others, use your heart.\u201d \u2013 Eleanor Roosevelt \u00b7 \u201cEvery time you..."
+        },
+        {
+          "title": "75 inspirational leadership quotes you haven't heard yet - Atlassian",
+          "url": "https://www.atlassian.com/blog/teamwork/leadership-quotes",
+          "content": "**AI that knows your business**. Connect people, knowledge, and work to move faster together. ## Leadership quotes about the essence of leadership. ## Leadership. When you need a leadership quote (whether it\u2019s for your personal mood board or an all-hands presentation), you want it to express somethi..."
+        },
+        {
+          "title": "100 Best Quotes On Leadership",
+          "url": "https://www.forbes.com/sites/kevinkruse/2012/10/16/quotes-on-leadership",
+          "content": "In my new eBook, *365 Inspirational Quotes: Daily Motivation For Your Best Year Ever*, I share the quotations that have inspired me as I\u2019ve launched my companies, written books and raised my children. Below are my top 100 leadership quotes of all time. 1. A leader is best when people barely know he ..."
+        }
+      ]
+    },
+    "productivity": {
+      "category": "Productivity Tips",
+      "query": "productivity tips for developers 2026",
+      "answer": "Developer productivity in 2026 focuses on value delivery, not just code volume, using AI and metrics for sustainable output. Key strategies include planning, keyboard shortcuts, and balanced metrics. AI-augmented teams need additional AI metrics for performance.",
+      "tips": [
+        {
+          "title": "The Developer Productivity Renaissance: Optimizing Output in 2026",
+          "url": "https://devactivity.com/posts/productivity-tips/the-developer-productivity-renaissance-optimizing-output-in-2026",
+          "excerpt": "In 2026, a developer-friendly app stack is critical for boosting productivity. This involves automating processes, ensuring resilient...",
+          "score": 0.99998724
+        },
+        {
+          "title": "10 Tips for Aspiring Developers in 2026 - YouTube",
+          "url": "https://www.youtube.com/watch?v=bh0lQdX7g6Y",
+          "excerpt": "The gap between stuck and employed isn't talent \u2014 it's shipping. These 10 tips will change how you approach learning to code....",
+          "score": 0.9999584
+        },
+        {
+          "title": "13 Productivity Hacks Every Software Engineer Needs in 2026",
+          "url": "https://medium.com/@baheer224/13-productivity-hacks-every-software-engineer-needs-in-2026-67e41b5c6ca2",
+          "excerpt": "1. Stop Coding Without a Plan. This one changed everything for me. \u00b7 4. Learn Keyboard Shortcuts (Seriously) \u00b7 6. Use AI But Don't Depend on It....",
+          "score": 0.99990904
+        },
+        {
+          "title": "Developer Productivity Metrics: A Complete 2026 Guide",
+          "url": "https://www.getint.io/blog/developer-productivity-metrics-a-complete-2026-guide",
+          "excerpt": "But the truth is far simpler: *developer productivity is not about how much code is written \u2014 it\u2019s about how much value a team can deliver sustainably.*. In this guide, we\u2019ll unpack the most useful developer productivity metrics, why they matter, how...",
+          "score": 0.99986446
+        },
+        {
+          "title": "Developer Productivity Guide: Measurement and Metrics in 2026",
+          "url": "https://gogloby.com/insights/developer-productivity",
+          "excerpt": "# Developer Productivity Guide: Measurement and Metrics in 2026. This guide is for CTOs and VPs of Engineering deciding how to measure and scale development output in the Agentic AI Era. You\u2019ll leave with the measurement stack that separates delivery...",
+          "score": 0.9997749
+        }
+      ]
+    },
+    "trending": {
+      "category": "Trending Today",
+      "summary": "Today's trending topics include Harambe, Stephen Miller, and AI Robot. Google Trends lists these as top subjects. Check Google for the latest updates.",
+      "trending": [
+        {
+          "title": "United States \u2014 X (Twitter) trending topics and hashtags today",
+          "url": "https://trends24.in/united-states",
+          "description": "Today's top X (Twitter) trends and hashtags in United States: Harambe, Stephen Miller, Kuwait, Reid Hoffman, Jill Biden. Explore more locations and trending..."
+        },
+        {
+          "title": "Explore - Trending Topics & Today's News | X",
+          "url": "https://x.com/explore?lang=en",
+          "description": "Discover trending topics and today's news on X. See live updates, top conversations, and what's happening right now across the world...."
+        },
+        {
+          "title": "Top Trending Topics (May 2026) - Exploding Topics",
+          "url": "https://explodingtopics.com/blog/trending-topics",
+          "description": "Top Trending Topics in the US Right Now ; 2, Shoe Washing Bag, 5,800% ; 3, Tumble Rug, 3,500% ; 4, AI Robot, 2,400% ; 5, Boneless Couch, 8,300%...."
+        },
+        {
+          "title": "Trending News, Top Trending Topics, Videos & Popular ... - NDTV",
+          "url": "https://www.ndtv.com/trends",
+          "description": "Trending \u00b7 Ex-Judge Giribala Singh, Twisha Sharma's Mother-In-Law, Arrested By CBI \u00b7 Japan Bans Indian Mangoes After 20 Years. \u00b7 Yashasvi Jaiswal Told To Quit..."
+        },
+        {
+          "title": "Trending Now - Google Trends",
+          "url": "https://trends.google.com/trending",
+          "description": "All categories Autos and Vehicles Beauty and Fashion Business and Finance Climate Entertainment Food and Drink Games Health Hobbies and Leisure Jobs and..."
+        },
+        {
+          "title": "Trending News | What's New Around the World - AP News",
+          "url": "https://apnews.com/hub/trending-news",
+          "description": "Discover today's trending news from around the world. AP News uncovers the latest trending topics and stories...."
+        }
+      ]
+    }
+  }
+}
